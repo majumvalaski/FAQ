@@ -12,5 +12,6 @@
 }
 
 #questions {
-    float: left;
+    float: left; /* not working */
 }
+
