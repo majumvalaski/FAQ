@@ -10,5 +10,7 @@ The challenge was to build out a FAQ according card using HTML, CSS and Javascri
 
 To have access to the FAQ page there is no need to download any software or anything. 
 
+## Deploy
+faqmariajulia.netlify.app
 
 
