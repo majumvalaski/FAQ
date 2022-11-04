@@ -59,7 +59,8 @@ table {
 }
 
 .accordion:after {
-    content:"\002B";
+
+    content:"\2304";
     color: hsl(14, 88%, 65%);
     font-weight: 700;
     float: right;
@@ -67,7 +68,7 @@ table {
 }
 
 .active:after {
-    content: "\2212";
+    content: "\2303";
     color: hsl(14, 88%, 65%);
     
 }
