@@ -10,7 +10,7 @@ main {
 }
 table {
     padding: 100px 100px 100px 100px;
-    background-image:linear-gradient(to bottom, rgba(163, 86, 236, 0.984), rgb(77, 24, 199));
+    background-image:linear-gradient(to bottom, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     border-radius: 10px;
     
 }
