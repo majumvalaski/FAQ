@@ -5,6 +5,7 @@
 ## The challenge
 
 The challenge was to build out a FAQ according card using HTML, CSS and Javascript.
+Technically, the main object was to practice javascript but also to start getting to know more about css-grid and flexbox.
 
 ## Access
 
